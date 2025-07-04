@@ -208,3 +208,17 @@ body{
     width: 18px;
     margin-top: 30px;
 }
+
+.explore{
+    background-color: #F35D25;
+    font-size: larger;
+    font-weight: bolder;
+    border: none;
+    color: white;
+    padding: 10px 55px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    margin-left: 40%;
+    margin-bottom: 11%;
+}
